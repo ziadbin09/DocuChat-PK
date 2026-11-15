@@ -1,0 +1,36 @@
+{"q": "What does error E-4012 mean?", "doc": "api_reference.md", "contains": "E-4012 means"}
+{"q": "E-4020", "doc": "api_reference.md", "contains": "E-4020 means"}
+{"q": "Which form do I use to request annual leave?", "doc": "leave_policy.md", "contains": "form HR-12"}
+{"q": "HR-15 form purpose", "doc": "leave_policy.md", "contains": "HR-15"}
+{"q": "What is form FIN-27 for?", "doc": "expense_policy.md", "contains": "FIN-27"}
+{"q": "Which header carries the webhook signature?", "doc": "api_reference.md", "contains": "X-KC-Signature"}
+{"q": "How long do new hires wait before they become permanent staff?", "doc": "employee_handbook.md", "contains": "probation period of 90 days"}
+{"q": "Can I work from my house some days?", "doc": "employee_handbook.md", "contains": "work from home up to 2 days"}
+{"q": "How much extra do I earn for working on Eid or another national holiday?", "doc": "employee_handbook.md", "contains": "3 times the hourly rate"}
+{"q": "When do pay raises kick in?", "doc": "employee_handbook.md", "contains": "take effect from 1 September"}
+{"q": "How many vacation days do I get each year?", "doc": "leave_policy.md", "contains": "21 days of paid annual leave"}
+{"q": "Do I need a doctor's note when I am ill?", "doc": "leave_policy.md", "contains": "medical certificate"}
+{"q": "How much time off do new fathers get?", "doc": "leave_policy.md", "contains": "Paternity leave is 10 working days"}
+{"q": "Can I take time off for pilgrimage?", "doc": "leave_policy.md", "contains": "Hajj leave of 30 days"}
+{"q": "Who has to sign off on a 150,000 rupee purchase?", "doc": "expense_policy.md", "contains": "Finance Director before the money is spent"}
+{"q": "What is the most I can spend on a hotel room in Lahore?", "doc": "expense_policy.md", "contains": "15,000 PKR per night"}
+{"q": "How much do I get back per km when I drive my own car for work?", "doc": "expense_policy.md", "contains": "38 PKR per kilometre"}
+{"q": "Will the company pay my speeding ticket?", "doc": "expense_policy.md", "contains": "Traffic fines"}
+{"q": "How long does it take to send a package to Gilgit or other mountain areas?", "doc": "shipping_faq.md", "contains": "5 to 7 working days"}
+{"q": "What is the heaviest box you will accept?", "doc": "shipping_faq.md", "contains": "maximum weight for a single parcel is 30 kg"}
+{"q": "What do you charge for collecting payment from the buyer at the door?", "doc": "shipping_faq.md", "contains": "COD fee is 2 percent"}
+{"q": "What happens when the customer is not home?", "doc": "shipping_faq.md", "contains": "3 delivery attempts"}
+{"q": "Can I ship a gold necklace?", "doc": "shipping_faq.md", "contains": "jewellery"}
+{"q": "How many API calls per minute can I make on the normal plan?", "doc": "api_reference.md", "contains": "120 requests per minute"}
+{"q": "What happens to my old key after I generate a new one?", "doc": "api_reference.md", "contains": "rotated key keeps working for 24 hours"}
+{"q": "How many shipments can I create in a single call?", "doc": "api_reference.md", "contains": "up to 500 shipments"}
+{"q": "My package vanished. How much money will I get?", "doc": "claims_policy.md", "contains": "declared value or 15,000 PKR"}
+{"q": "The item arrived broken. How quickly must I tell you?", "doc": "claims_policy.md", "contains": "within 48 hours of delivery"}
+{"q": "I think the claim decision was unfair. What can I do?", "doc": "claims_policy.md", "contains": "open a dispute within 14 days"}
+{"q": "When can I move my refund money to my bank?", "doc": "claims_policy.md", "contains": "once it reaches 1,000 PKR"}
+{"q": "How often do I have to change my login password?", "doc": "security_policy.md", "contains": "changed every 180 days"}
+{"q": "Is a text message code okay for two-step login?", "doc": "security_policy.md", "contains": "SMS codes are not accepted"}
+{"q": "My laptop was stolen. What do I do?", "doc": "security_policy.md", "contains": "lost or stolen device must be reported"}
+{"q": "Can I use the airport internet for work?", "doc": "security_policy.md", "contains": "Public Wi-Fi"}
+{"q": "How long do you keep records of old deliveries?", "doc": "security_policy.md", "contains": "kept for 5 years"}
+{"q": "I got a suspicious email asking for my password. Where do I send it?", "doc": "security_policy.md", "contains": "security@kohsar.example"}

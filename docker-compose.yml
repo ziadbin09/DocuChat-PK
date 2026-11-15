@@ -1,0 +1,21 @@
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    volumes:
+      - qdrant_data:/qdrant/storage
+
+  app:
+    build: .
+    env_file: .env
+    environment:
+      QDRANT_URL: http://qdrant:6333
+    ports:
+      - "8000:8000"
+    volumes:
+      - app_data:/app/data   # document registry + cached embedding models
+    depends_on:
+      - qdrant
+
+volumes:
+  qdrant_data:
+  app_data:
